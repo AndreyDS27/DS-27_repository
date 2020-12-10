@@ -1,1 +1,8 @@
+Open Anaconda Prompt
+>D:
+>cd \NETOLOGY\DS-27_repository
+>jupyter notebook
+
+
+
 start cd /d D:\ & cd D:\NETOLOGY\DS-27_repository & jupyter notebook
